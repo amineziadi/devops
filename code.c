@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
-   printf("fifth commit");
+   printf("sixth commit");
    return 0;
 }
